@@ -11,5 +11,9 @@ npm install
 npm run dev
 ```
 
+## Screenshots
+![Homepage View](/screenshots/homepage.png)
+![Login View](/screenshots/login.png)
+
 ## Credits
 - [Tabler](https://github.com/tabler/tabler)
