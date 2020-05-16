@@ -21,6 +21,7 @@
     @stack('style')
 </head>
 <body class="antialiased">
+    @yield('sidebar')
     <div class="page">
         @yield('body')
     </div>

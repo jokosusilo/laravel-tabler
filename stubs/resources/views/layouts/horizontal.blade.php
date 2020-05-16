@@ -1,7 +1,7 @@
 @extends('layouts.base')
 @section('body')
 
-    @include('layouts.header')
+    @include('layouts.partial.header-horizontal')
 
     <div class="content">
         <div class="container-xl">

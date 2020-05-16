@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.vertical')
 
 @section('page-header')
     <div class="col-auto">
