@@ -1,0 +1,14 @@
+@import 'variables';
+@import '~tabler/scss/tabler-core';
+
+.auth-page{
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding: 1rem 0;
+}
