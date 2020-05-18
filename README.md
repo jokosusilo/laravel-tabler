@@ -14,6 +14,8 @@ npm run dev
 ## Screenshots
 ![Homepage View](/screenshots/homepage.png)
 ![Login View](/screenshots/login.png)
+![Horizontal View](/screenshots/horizontal.png)
+![Vertical View](/screenshots/vertical.png)
 
 ## Credits
 - [Tabler](https://github.com/tabler/tabler)
